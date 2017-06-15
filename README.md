@@ -4,6 +4,10 @@ Project for BITP3453 MOBILE APPLICATION DEVELOPMENT
 
 The table reservation apps is build for restaurant especially, to help customer make a reservation of table they prefer, thus customer do not need to wait long. This will make the process of booking for table in restaurant easier and hassle-free. This app is designed to be use by restaurant waiter.
 
+APK for this project can be previewed at this youtube link : https://youtu.be/kR3emMJDN28
+
+
+
 Functionalities:
 
 •	Login - Waiter can login to the account.
@@ -22,8 +26,12 @@ Functionalities:
 
 •	Sign Out - Waiter can sign out from the account
 
+
+
 Libraries/External API
 - Webservice.json
+
+
 
 The development environment setup
 
