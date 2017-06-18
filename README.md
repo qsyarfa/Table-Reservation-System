@@ -1,4 +1,4 @@
-# Table-Reservation-System
+# Table Reservation System
 Project for BITP3453 MOBILE APPLICATION DEVELOPMENT
 
 
