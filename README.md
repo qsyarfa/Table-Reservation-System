@@ -29,12 +29,12 @@ Functionalities:
 
 
 Libraries/External API
-- Webservice.json
+ • Webservice.json
 
 
 
 The development environment setup
 
-• .js
+ • .js
 
 
